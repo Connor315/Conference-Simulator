@@ -1,13 +1,3 @@
-# Software-design-project
-CSC207H1 F 20209:Software Design
-
-Overview:
-Designed the program in SOLID principles and clean architecture organization, \n
-and implemented User Classes in Phase 1
-
-Designed and Implemented Graphic User Interface by java.swing following the \n
-Model-View-Presenter architecture in Phase 2
-
 Welcome to the conference! \n
 Simply Click run to start the conference. \n
 You should see our login Menu, Everyone needs to signup \n
