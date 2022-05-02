@@ -1,4 +1,4 @@
-# Software-design-project
+# Conference-Simulator
 CSC207H1 F 20209:Software Design
 
 The project was implemented by a team of 7 students using Java at the University of Toronto in CSC207: Software Design in September 2020.
